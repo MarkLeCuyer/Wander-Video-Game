@@ -11,3 +11,7 @@ shake_length = 0;
 shake_magnitude = 0;
 shake_remain = 0; 
 buff = 32; 
+
+Mountain1 = layer_get_id("bgMountain_1")
+Mountain2 = layer_get_id("bgMountain_2")
+Mountain3 = layer_get_id("bgMountain_3")

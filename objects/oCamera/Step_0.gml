@@ -23,4 +23,19 @@ y += random_range(-shake_remain,shake_remain);
 shake_remain = max(0,shake_remain-((1/shake_length)*shake_magnitude));
 
 //Update camera view 
-camera_set_view_pos(cam,x-view_w_half,y-view_h_half+40);
+camera_set_view_pos(cam,x-view_w_half,y-view_h_half+10);
+
+if (layer_exists(Mountain2))
+{
+	layer_x(Mountain2, x/4);
+}
+
+if (layer_exists(Mountain3))
+{
+	layer_x(Mountain3, x/2);
+}
+
+if (layer_exists(Mountain1))
+{
+	layer_x(Mountain1, x/8);
+}
