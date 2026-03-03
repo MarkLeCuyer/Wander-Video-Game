@@ -15,3 +15,7 @@ buff = 32;
 Mountain1 = layer_get_id("bgMountain_1")
 Mountain2 = layer_get_id("bgMountain_2")
 Mountain3 = layer_get_id("bgMountain_3")
+
+Trees1 = layer_get_id("bgTrees_1")
+Trees2 = layer_get_id("bgTrees_2")
+Trees3 = layer_get_id("bgTrees_3")

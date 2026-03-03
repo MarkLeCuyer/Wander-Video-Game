@@ -39,3 +39,18 @@ if (layer_exists(Mountain1))
 {
 	layer_x(Mountain1, x/8);
 }
+
+if (layer_exists(Trees3))
+{
+	layer_x(Trees3, x/4);
+}
+
+if (layer_exists(Trees2))
+{
+	layer_x(Trees2, x/8);
+}
+
+if (layer_exists(Trees1))
+{
+	layer_x(Trees1, x/20);
+}
