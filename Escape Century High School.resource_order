@@ -26,6 +26,7 @@
     {"name":"oEnemy","order":4,"path":"objects/oEnemy/oEnemy.yy",},
     {"name":"oLazer","order":6,"path":"objects/oLazer/oLazer.yy",},
     {"name":"oPlatform","order":1,"path":"objects/oPlatform/oPlatform.yy",},
+    {"name":"rForest_enterance","order":2,"path":"rooms/rForest_enterance/rForest_enterance.yy",},
     {"name":"rMenu","order":1,"path":"rooms/rMenu/rMenu.yy",},
     {"name":"snDeath","order":2,"path":"sounds/snDeath/snDeath.yy",},
     {"name":"snFoot1","order":3,"path":"sounds/snFoot1/snFoot1.yy",},

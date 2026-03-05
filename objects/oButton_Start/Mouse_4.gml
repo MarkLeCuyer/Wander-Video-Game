@@ -1,5 +1,5 @@
 // Inherit the parent event
 event_inherited();
 
-room_goto(rOne);
+room_goto(rForest_enterance);
 
