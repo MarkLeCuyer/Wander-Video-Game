@@ -23,3 +23,5 @@ eTrees3 = layer_get_id("sTrees_3")
 Trees1 = layer_get_id("bgTrees_1")
 Trees2 = layer_get_id("bgTrees_2")
 Trees3 = layer_get_id("bgTrees_3")
+
+GrassPlatforms = layer_get_id("bgGrass_Platforms")

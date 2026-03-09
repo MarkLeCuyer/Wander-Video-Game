@@ -39,6 +39,7 @@
     {"name":"sEnemygA","order":10,"path":"sprites/sEnemygA/sEnemygA.yy",},
     {"name":"sEnemygD","order":9,"path":"sprites/sEnemygD/sEnemygD.yy",},
     {"name":"sEnemygR","order":8,"path":"sprites/sEnemygR/sEnemygR.yy",},
+    {"name":"sGrass_platform","order":31,"path":"sprites/sGrass_platform/sGrass_platform.yy",},
     {"name":"sGround1","order":23,"path":"sprites/sGround1/sGround1.yy",},
     {"name":"sLazer","order":12,"path":"sprites/sLazer/sLazer.yy",},
     {"name":"sMountain_1","order":27,"path":"sprites/sMountain_1/sMountain_1.yy",},

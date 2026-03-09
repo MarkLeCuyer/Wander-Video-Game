@@ -62,6 +62,7 @@
     {"id":{"name":"sEnemygA","path":"sprites/sEnemygA/sEnemygA.yy",},},
     {"id":{"name":"sEnemygD","path":"sprites/sEnemygD/sEnemygD.yy",},},
     {"id":{"name":"sEnemygR","path":"sprites/sEnemygR/sEnemygR.yy",},},
+    {"id":{"name":"sGrass_platform","path":"sprites/sGrass_platform/sGrass_platform.yy",},},
     {"id":{"name":"sGround1","path":"sprites/sGround1/sGround1.yy",},},
     {"id":{"name":"sLazer","path":"sprites/sLazer/sLazer.yy",},},
     {"id":{"name":"sMountain_1","path":"sprites/sMountain_1/sMountain_1.yy",},},
