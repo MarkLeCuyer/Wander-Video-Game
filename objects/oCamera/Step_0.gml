@@ -55,7 +55,6 @@ if (layer_exists(Trees1))
 	layer_x(Trees1, x/20);
 }
 
-if (layer_exists(GrassPlatforms))
-{
-	layer_x(GrassPlatforms, x/4)
-}
+if (layer_exists(GrassPlatforms3)) {layer_x(GrassPlatforms3, x/4)}
+
+if (layer_exists(GrassPlatforms1)) {layer_x(GrassPlatforms1, x/8)}
