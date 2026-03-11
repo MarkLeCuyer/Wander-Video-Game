@@ -57,5 +57,6 @@
     {"name":"sTrees_1","order":30,"path":"sprites/sTrees_1/sTrees_1.yy",},
     {"name":"sTrees_2","order":28,"path":"sprites/sTrees_2/sTrees_2.yy",},
     {"name":"sTrees_3","order":29,"path":"sprites/sTrees_3/sTrees_3.yy",},
+    {"name":"sTrees","order":35,"path":"sprites/sTrees/sTrees.yy",},
   ],
 }

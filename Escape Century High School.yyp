@@ -81,6 +81,7 @@
     {"id":{"name":"sTrees_1","path":"sprites/sTrees_1/sTrees_1.yy",},},
     {"id":{"name":"sTrees_2","path":"sprites/sTrees_2/sTrees_2.yy",},},
     {"id":{"name":"sTrees_3","path":"sprites/sTrees_3/sTrees_3.yy",},},
+    {"id":{"name":"sTrees","path":"sprites/sTrees/sTrees.yy",},},
     {"id":{"name":"Ground","path":"tilesets/Ground/Ground.yy",},},
   ],
   "resourceType":"GMProject",
