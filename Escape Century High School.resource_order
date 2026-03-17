@@ -41,6 +41,8 @@
     {"name":"sEnemygA","order":2,"path":"sprites/sEnemygA/sEnemygA.yy",},
     {"name":"sEnemygD","order":3,"path":"sprites/sEnemygD/sEnemygD.yy",},
     {"name":"sEnemygR","order":4,"path":"sprites/sEnemygR/sEnemygR.yy",},
+    {"name":"sFourgroundGrass_1","order":12,"path":"sprites/sFourgroundGrass_1/sFourgroundGrass_1.yy",},
+    {"name":"sFourgroundGrass_2","order":11,"path":"sprites/sFourgroundGrass_2/sFourgroundGrass_2.yy",},
     {"name":"sGround1","order":23,"path":"sprites/sGround1/sGround1.yy",},
     {"name":"sLazer","order":12,"path":"sprites/sLazer/sLazer.yy",},
     {"name":"sMountain_1","order":2,"path":"sprites/sMountain_1/sMountain_1.yy",},
@@ -58,5 +60,7 @@
     {"name":"sTrees_2","order":6,"path":"sprites/sTrees_2/sTrees_2.yy",},
     {"name":"sTrees_3","order":7,"path":"sprites/sTrees_3/sTrees_3.yy",},
     {"name":"sTrees_4","order":8,"path":"sprites/sTrees_4/sTrees_4.yy",},
+    {"name":"sTrees_5","order":9,"path":"sprites/sTrees_5/sTrees_5.yy",},
+    {"name":"sTrees_6","order":10,"path":"sprites/sTrees_6/sTrees_6.yy",},
   ],
 }
