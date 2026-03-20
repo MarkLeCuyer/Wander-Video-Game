@@ -1,10 +1,10 @@
 {
   "$GMSprite":"v2",
   "%Name":"sPlayerDA",
-  "bboxMode":0,
-  "bbox_bottom":55,
+  "bboxMode":2,
+  "bbox_bottom":48,
   "bbox_left":22,
-  "bbox_right":42,
+  "bbox_right":39,
   "bbox_top":16,
   "collisionKind":1,
   "collisionTolerance":0,
