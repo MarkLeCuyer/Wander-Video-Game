@@ -54,6 +54,7 @@
     {"name":"sPlayerA","order":1,"path":"sprites/sPlayerA/sPlayerA.yy",},
     {"name":"sPlayerDA","order":4,"path":"sprites/sPlayerDA/sPlayerDA.yy",},
     {"name":"sPlayerR","order":3,"path":"sprites/sPlayerR/sPlayerR.yy",},
+    {"name":"Sprite31","order":43,"path":"sprites/Sprite31/Sprite31.yy",},
     {"name":"sStartbutton","order":2,"path":"sprites/sStartbutton/sStartbutton.yy",},
     {"name":"sTitle","order":3,"path":"sprites/sTitle/sTitle.yy",},
     {"name":"sTree_1","order":5,"path":"sprites/sTree_1/sTree_1.yy",},

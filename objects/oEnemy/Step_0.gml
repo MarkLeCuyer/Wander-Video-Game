@@ -1,7 +1,7 @@
 vsp = vsp + grv;
 
 //Don't walk off edges 
-if (grounded) && (afraidofheights) && (!place_meeting(x+hsp,y+1,oPlatform))
+if (grounded) && (afraidofheights) && (!place_meeting(x+hsp,y+1,my_tilemap))
 {
 	hsp = -hsp;
 }
@@ -10,9 +10,9 @@ if (grounded) && (afraidofheights) && (!place_meeting(x+hsp,y+1,oPlatform))
 
 
 // Horizontal collision
-if (place_meeting(x+hsp,y,oPlatform))
+if (place_meeting(x+hsp,y,my_tilemap))
 {
-	while (!place_meeting(x+sign(hsp),y,oPlatform))
+	while (!place_meeting(x+sign(hsp),y,my_tilemap))
 	{
 		x = x + sign(hsp);
 	}
@@ -21,9 +21,9 @@ if (place_meeting(x+hsp,y,oPlatform))
 x = x + hsp; 
 
 // Vertical collision
-if (place_meeting(x,y+vsp,oPlatform))
+if (place_meeting(x,y+vsp,my_tilemap))
 {
-	while (!place_meeting(x,y+sign(vsp),oPlatform))
+	while (!place_meeting(x,y+sign(vsp),my_tilemap))
 	{
 		y = y + sign(vsp);
 	}
@@ -32,7 +32,7 @@ if (place_meeting(x,y+vsp,oPlatform))
 y = y + vsp; 
 
 // Animation
-if (!place_meeting(x,y+1,oPlatform))
+if (!place_meeting(x,y+1,my_tilemap))
 {
 	grounded = false;
 	sprite_index = sEnemygA;
