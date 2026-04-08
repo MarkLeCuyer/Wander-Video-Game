@@ -1,7 +1,5 @@
-//Get player input
-key_left = keyboard_check(vk_left) || keyboard_check(ord("A"));
-key_right = keyboard_check(vk_right) || keyboard_check(ord("D"));
-key_jump = keyboard_check_pressed(vk_space);
+//Player input
+getControls();
 
 //Calculate Movement
 var move = key_right - key_left;
@@ -9,18 +7,6 @@ var move = key_right - key_left;
 hsp = move * walksp;
 
 vsp = vsp + grv;
-
-//Jumping 
-if (place_meeting(x,y+1,my_tilemap)) && (key_jump)
-{
-	vsp = -4;
-}
-
-// Double Jump
-
-
-
-
 
 // Horizontal collision
 if (place_meeting(x+hsp,y,my_tilemap))
