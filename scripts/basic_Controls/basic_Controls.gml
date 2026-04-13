@@ -11,12 +11,15 @@ function getControls()
 		jumps = jumpsmax;
 	}
 	
+	if vsp > 0
+	{
+		jumpsmax = 1;
+	}
+	
+	
 	if (key_jump) && (jumps > 0)
 	{
 		jumps -= 1;
 		vsp = -jumpspeed;
 	}
-	
-	
-	//Double Jumping
 }

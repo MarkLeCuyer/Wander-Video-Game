@@ -54,6 +54,7 @@
     {"id":{"name":"rForest","path":"rooms/rForest/rForest.yy",},},
     {"id":{"name":"rMenu","path":"rooms/rMenu/rMenu.yy",},},
     {"id":{"name":"basic_Controls","path":"scripts/basic_Controls/basic_Controls.yy",},},
+    {"id":{"name":"PlayerAnimation","path":"scripts/PlayerAnimation/PlayerAnimation.yy",},},
     {"id":{"name":"ScreenShake","path":"scripts/ScreenShake/ScreenShake.yy",},},
     {"id":{"name":"shWhite","path":"shaders/shWhite/shWhite.yy",},},
     {"id":{"name":"snDeath","path":"sounds/snDeath/snDeath.yy",},},
