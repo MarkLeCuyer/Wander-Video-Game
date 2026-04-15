@@ -15,7 +15,6 @@ function PlayerAnimation()
 		if (jumps = 0)
 	{
 		sprite_index = sPlayerDA;
-		image_speed = 1;
 	}
 		if (hsp == 0) 
 		{

@@ -11,9 +11,9 @@ function getControls()
 		jumps = jumpsmax;
 	}
 	
-	if vsp > 0
+	else if not (place_meeting(x,y+1,my_tilemap))
 	{
-		jumpsmax = 1;
+		jumps = 1;
 	}
 	
 	
