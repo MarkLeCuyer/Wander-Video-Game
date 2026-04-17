@@ -48,6 +48,7 @@
     {"id":{"name":"oDead","path":"objects/oDead/oDead.yy",},},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},},
     {"id":{"name":"oLazer","path":"objects/oLazer/oLazer.yy",},},
+    {"id":{"name":"oPlanet","path":"objects/oPlanet/oPlanet.yy",},},
     {"id":{"name":"oPlatform","path":"objects/oPlatform/oPlatform.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"rForest_enterance","path":"rooms/rForest_enterance/rForest_enterance.yy",},},
