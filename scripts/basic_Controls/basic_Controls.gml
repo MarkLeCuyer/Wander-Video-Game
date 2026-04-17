@@ -11,7 +11,7 @@ function getControls()
 		jumps = jumpsmax; sprite_index = sPlayer
 	}
 	
-	else if not (place_meeting(x,y+1,my_tilemap))
+	else if not (place_meeting(x,y+1,my_tilemap)) && (jumps == 2)
 	{
 		jumps = 1;
 	} 

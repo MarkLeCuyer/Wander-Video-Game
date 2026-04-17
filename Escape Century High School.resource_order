@@ -39,6 +39,7 @@
     {"name":"snShooting","order":1,"path":"sounds/snShooting/snShooting.yy",},
     {"name":"sBackg_ground_mountains","order":1,"path":"sprites/sBackg_ground_mountains/sBackg_ground_mountains.yy",},
     {"name":"sBlaster","order":22,"path":"sprites/sBlaster/sBlaster.yy",},
+    {"name":"sBush","order":44,"path":"sprites/sBush/sBush.yy",},
     {"name":"sButton_Start","order":4,"path":"sprites/sButton_Start/sButton_Start.yy",},
     {"name":"sEnemyg","order":1,"path":"sprites/sEnemyg/sEnemyg.yy",},
     {"name":"sEnemygA","order":2,"path":"sprites/sEnemygA/sEnemygA.yy",},

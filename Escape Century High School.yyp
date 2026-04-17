@@ -63,6 +63,7 @@
     {"id":{"name":"MenuBackground","path":"sprites/MenuBackground/MenuBackground.yy",},},
     {"id":{"name":"sBackg_ground_mountains","path":"sprites/sBackg_ground_mountains/sBackg_ground_mountains.yy",},},
     {"id":{"name":"sBlaster","path":"sprites/sBlaster/sBlaster.yy",},},
+    {"id":{"name":"sBush","path":"sprites/sBush/sBush.yy",},},
     {"id":{"name":"sButton_Start","path":"sprites/sButton_Start/sButton_Start.yy",},},
     {"id":{"name":"sEnemyb","path":"sprites/sEnemyb/sEnemyb.yy",},},
     {"id":{"name":"sEnemyg","path":"sprites/sEnemyg/sEnemyg.yy",},},
