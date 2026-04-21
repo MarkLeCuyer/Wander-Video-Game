@@ -30,8 +30,12 @@
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
-  "ForcedPrefabProjectReferences":[],
-  "IncludedFiles":[],
+  "ForcedPrefabProjectReferences":[
+    {"link":"io.gamemaker.sdfshaders-1.0.0","name":"io.gamemaker.sdfshaders-1.0.0","path":"io.gamemaker.sdfshaders-1.0.0.yyp",},
+  ],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"default-pixilart-text.otf.zip","CopyToMask":-1,"filePath":"datafiles","name":"default-pixilart-text.otf.zip","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
@@ -85,6 +89,7 @@
     {"id":{"name":"sPlayerDA","path":"sprites/sPlayerDA/sPlayerDA.yy",},},
     {"id":{"name":"sPlayerR","path":"sprites/sPlayerR/sPlayerR.yy",},},
     {"id":{"name":"Sprite31","path":"sprites/Sprite31/Sprite31.yy",},},
+    {"id":{"name":"sStart","path":"sprites/sStart/sStart.yy",},},
     {"id":{"name":"sStartbutton","path":"sprites/sStartbutton/sStartbutton.yy",},},
     {"id":{"name":"sTitle","path":"sprites/sTitle/sTitle.yy",},},
     {"id":{"name":"sTree_1","path":"sprites/sTree_1/sTree_1.yy",},},
