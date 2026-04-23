@@ -1,6 +1,7 @@
 x = oPlayer.x-24; 
 y = oPlayer.y-10;
 
+direction = point_direction(x, y, mouse_x, mouse_y);
 
 firingdelay = firingdelay -1;
 recoil = max(0,recoil - 1);
@@ -19,8 +20,6 @@ if (mouse_check_button(mb_left)) && (firingdelay < 0)
 	}
 }
 
-x = x - lengthdir_x(recoil,image_angle);
-y = y - lengthdir_y(recoil,image_angle); 
 
 
 
