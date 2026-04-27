@@ -66,6 +66,8 @@
     {"id":{"name":"shWhite","path":"shaders/shWhite/shWhite.yy",},},
     {"id":{"name":"snDeath","path":"sounds/snDeath/snDeath.yy",},},
     {"id":{"name":"snFoot1","path":"sounds/snFoot1/snFoot1.yy",},},
+    {"id":{"name":"snHover_Off_Button","path":"sounds/snHover_Off_Button/snHover_Off_Button.yy",},},
+    {"id":{"name":"snHover_On_Button","path":"sounds/snHover_On_Button/snHover_On_Button.yy",},},
     {"id":{"name":"snShooting","path":"sounds/snShooting/snShooting.yy",},},
     {"id":{"name":"MenuBackground","path":"sprites/MenuBackground/MenuBackground.yy",},},
     {"id":{"name":"sBackg_ground_mountains","path":"sprites/sBackg_ground_mountains/sBackg_ground_mountains.yy",},},
