@@ -37,6 +37,7 @@
     {"name":"rMenu","order":1,"path":"rooms/rMenu/rMenu.yy",},
     {"name":"basic_Controls","order":1,"path":"scripts/basic_Controls/basic_Controls.yy",},
     {"name":"PlayerAnimation","order":2,"path":"scripts/PlayerAnimation/PlayerAnimation.yy",},
+    {"name":"snClick_Start","order":6,"path":"sounds/snClick_Start/snClick_Start.yy",},
     {"name":"snDeath","order":2,"path":"sounds/snDeath/snDeath.yy",},
     {"name":"snFoot1","order":3,"path":"sounds/snFoot1/snFoot1.yy",},
     {"name":"snHover_Off_Button","order":5,"path":"sounds/snHover_Off_Button/snHover_Off_Button.yy",},

@@ -64,6 +64,7 @@
     {"id":{"name":"PlayerAnimation","path":"scripts/PlayerAnimation/PlayerAnimation.yy",},},
     {"id":{"name":"ScreenShake","path":"scripts/ScreenShake/ScreenShake.yy",},},
     {"id":{"name":"shWhite","path":"shaders/shWhite/shWhite.yy",},},
+    {"id":{"name":"snClick_Start","path":"sounds/snClick_Start/snClick_Start.yy",},},
     {"id":{"name":"snDeath","path":"sounds/snDeath/snDeath.yy",},},
     {"id":{"name":"snFoot1","path":"sounds/snFoot1/snFoot1.yy",},},
     {"id":{"name":"snHover_Off_Button","path":"sounds/snHover_Off_Button/snHover_Off_Button.yy",},},
