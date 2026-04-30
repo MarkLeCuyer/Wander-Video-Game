@@ -15,6 +15,7 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"sBackgrounds","order":40,"path":"folders/Sprites/sBackgrounds.yy",},
     {"name":"sEnemy","order":39,"path":"folders/Sprites/sEnemy.yy",},
+    {"name":"sTurret","order":5,"path":"folders/Sprites/sEnemy/sTurret.yy",},
     {"name":"sMenu","order":42,"path":"folders/Sprites/sMenu.yy",},
     {"name":"sOptions","order":45,"path":"folders/Sprites/sOptions.yy",},
     {"name":"sPlayer","order":41,"path":"folders/Sprites/sPlayer.yy",},
@@ -33,6 +34,8 @@
     {"name":"oLazer","order":6,"path":"objects/oLazer/oLazer.yy",},
     {"name":"oPlanet","order":13,"path":"objects/oPlanet/oPlanet.yy",},
     {"name":"oPlatform","order":1,"path":"objects/oPlatform/oPlatform.yy",},
+    {"name":"oTurret","order":16,"path":"objects/oTurret/oTurret.yy",},
+    {"name":"stUrret","order":17,"path":"objects/stUrret/stUrret.yy",},
     {"name":"rForest_enterance","order":2,"path":"rooms/rForest_enterance/rForest_enterance.yy",},
     {"name":"rMenu","order":1,"path":"rooms/rMenu/rMenu.yy",},
     {"name":"basic_Controls","order":1,"path":"scripts/basic_Controls/basic_Controls.yy",},
@@ -74,5 +77,6 @@
     {"name":"sTrees_4","order":8,"path":"sprites/sTrees_4/sTrees_4.yy",},
     {"name":"sTrees_5","order":9,"path":"sprites/sTrees_5/sTrees_5.yy",},
     {"name":"sTrees_6","order":10,"path":"sprites/sTrees_6/sTrees_6.yy",},
+    {"name":"sTurret_Block","order":1,"path":"sprites/sTurret_Block/sTurret_Block.yy",},
   ],
 }

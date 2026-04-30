@@ -16,11 +16,15 @@
     {"name":"inst_16DECF68","path":"rooms/rForest/rForest.yy",},
     {"name":"inst_17748223","path":"rooms/rForest/rForest.yy",},
     {"name":"inst_4B36F663","path":"rooms/rForest/rForest.yy",},
+    {"name":"inst_29FFF4ED","path":"rooms/rForest/rForest.yy",},
+    {"name":"inst_104DD880","path":"rooms/rForest/rForest.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Crosshair","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_17748223","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_17748223","objectId":{"name":"oCrosshair","path":"objects/oCrosshair/oCrosshair.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":310.0,"y":109.0,},
+        {"$GMRInstance":"v4","%Name":"inst_29FFF4ED","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_29FFF4ED","objectId":{"name":"oTurret","path":"objects/oTurret/oTurret.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":288.0,"y":64.0,},
+        {"$GMRInstance":"v4","%Name":"inst_104DD880","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_104DD880","objectId":{"name":"stUrret","path":"objects/stUrret/stUrret.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":-90.31924,"scaleX":1.0,"scaleY":1.0,"x":303.5,"y":82.0,},
       ],"layers":[],"name":"Crosshair","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_4028A8C2","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_4028A8C2","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.484375,"scaleY":1.0,"spriteId":{"name":"sBush","path":"sprites/sBush/sBush.yy",},"x":260.0,"y":204.0,},
