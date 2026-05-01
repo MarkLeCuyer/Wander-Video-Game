@@ -1,7 +1,7 @@
 hsp = 0;
 vsp = 0; 
 grv = .3; 
-walksp = 2;
+walkspeed = 2;
 jumpspeed = 4.25;
 jumps = 0;
 jumpsmax = 2; 

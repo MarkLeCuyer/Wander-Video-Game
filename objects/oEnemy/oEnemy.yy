@@ -36,9 +36,12 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sEnemyg",
-    "path":"sprites/sEnemyg/sEnemyg.yy",
+    "name":"sEnemygR",
+    "path":"sprites/sEnemygR/sEnemygR.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"sEnemygR",
+    "path":"sprites/sEnemygR/sEnemygR.yy",
+  },
   "visible":true,
 }

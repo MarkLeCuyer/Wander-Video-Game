@@ -1,7 +1,7 @@
 vsp = vsp + grv;
 
 //Don't walk off edges 
-if (grounded) && (afraidofheights) && (!place_meeting(x+hsp,y+1,my_tilemap))
+if (grounded) && (afraidofheights) && (!place_meeting(x+hsp + (16 * sign(hsp)),y+1,my_tilemap))
 {
 	hsp = -hsp;
 }
@@ -45,7 +45,7 @@ else
 	image_speed = 1;
 	if (hsp == 0) 
 	{
-		sprite_index = sEnemyg; 
+		sprite_index = sEnemygR; 
 	}
 	else 
 	{

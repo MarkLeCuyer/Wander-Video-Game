@@ -5,7 +5,7 @@ getControls();
 //Calculate Movement
 var move = key_right - key_left;
 
-hsp = move * walksp;
+hsp = move * walkspeed;
 
 vsp = vsp + grv;
 
