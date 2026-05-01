@@ -1,13 +1,12 @@
 vsp = vsp + grv;
 
+var _scared_of_heights = !place_meeting(x+hsp + (16 * sign(hsp)),y+1,my_tilemap)
+
 //Don't walk off edges 
-if (grounded) && (afraidofheights) && (!place_meeting(x+hsp + (16 * sign(hsp)),y+1,my_tilemap))
+if (grounded) && (_scared_of_heights)
 {
 	hsp = -hsp;
 }
-
-
-
 
 // Horizontal collision
 if (place_meeting(x+hsp,y,my_tilemap))
