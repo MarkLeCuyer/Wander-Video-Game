@@ -1,7 +1,7 @@
 
 vsp = 0; 
 grv = 0.3; 
-walksp = 1;
+walksp = .25;
 hsp = walksp;
 
 hp = 8; 
