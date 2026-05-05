@@ -1,7 +1,7 @@
-x = oPlayer.x-24; 
-y = oPlayer.y-10;
+x = oPlayer.x-6; 
+y = oPlayer.y-2;
 
-direction = point_direction(x, y, mouse_x, mouse_y);
+image_angle = point_direction(x, y, mouse_x, mouse_y);
 
 firingdelay = firingdelay -1;
 recoil = max(0,recoil - 1);

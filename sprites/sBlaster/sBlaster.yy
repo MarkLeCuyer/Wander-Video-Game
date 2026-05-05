@@ -2,7 +2,7 @@
   "$GMSprite":"v2",
   "%Name":"sBlaster",
   "bboxMode":0,
-  "bbox_bottom":22,
+  "bbox_bottom":21,
   "bbox_left":6,
   "bbox_right":26,
   "bbox_top":9,
