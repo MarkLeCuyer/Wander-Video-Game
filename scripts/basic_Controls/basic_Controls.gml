@@ -22,8 +22,10 @@ function getControls()
 		if (jumps == 1)
 		{
 			sprite_index = sPlayerDA;
+			image_xscale = (mouse_x > x) ? 1 : -1;
 		}
 		else sprite_index = sPlayerA;
+		image_xscale = (mouse_x > x) ? 1 : -1;
 		jumps -= 1;
 		vsp = -jumpspeed;
 	}

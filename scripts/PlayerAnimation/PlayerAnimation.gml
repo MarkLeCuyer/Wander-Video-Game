@@ -6,6 +6,7 @@ function PlayerAnimation()
 		if (jumps == 2)	
 		{
 			sprite_index = sPlayerA;
+			image_xscale = (mouse_x > x) ? 1 : -1;
 		}
 		image_speed = 0;
 		if (sign(vsp) > 0) image_index = 1; else image_index = 0;
@@ -18,30 +19,24 @@ function PlayerAnimation()
 		if (jumps == 0)
 		{
 		sprite_index = sPlayerDA;
+		image_xscale = (mouse_x > x) ? 1 : -1;
 		}
 		
 		if (hsp == 0) 
 		{
 			sprite_index = sPlayer; 
-			with(instance_nearest(x, y, oBlaster))
-			{
-				sprite_index = sBlaster
-			}
+			image_xscale = (mouse_x > x) ? 1 : -1;
 		}
 		else 
 		{
 			sprite_index = sPlayerR; 
-			with(instance_nearest(x, y, oBlaster))
-			{
-				sprite_index = sBlaster
-			}
+			
 		}
 	}
 
 	if (hsp != 0) 
 	{
-		image_xscale = sign(hsp);
+		image_xscale = (mouse_x > x) ? 1 : -1;
 	}
 
 }
-
