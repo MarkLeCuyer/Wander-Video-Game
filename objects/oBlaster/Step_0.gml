@@ -1,15 +1,13 @@
-x = oPlayer.x-6; 
-y = oPlayer.y-2;
 
+// 
+if oPlayer.sprite_index == sPlayer and oPlayer.image_index = 1 {
+	y = oPlayer.y-1;
+}
+
+// Blaster follows the mouse
 image_angle = point_direction(x, y, mouse_x, mouse_y);
 
-if (mouse_x < x) 
-{
-    image_yscale = -1; // Mouse is to the left, flip sprite
-} else 
-{
-    image_yscale = 1;  // Mouse is to the right, default orientation
-}
+
 
 
 firingdelay = firingdelay -1;
