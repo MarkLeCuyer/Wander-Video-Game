@@ -62,6 +62,8 @@
     {"name":"sFourgroundGrass_1","order":12,"path":"sprites/sFourgroundGrass_1/sFourgroundGrass_1.yy",},
     {"name":"sFourgroundGrass_2","order":11,"path":"sprites/sFourgroundGrass_2/sFourgroundGrass_2.yy",},
     {"name":"sGround1","order":23,"path":"sprites/sGround1/sGround1.yy",},
+    {"name":"sHeart","order":48,"path":"sprites/sHeart/sHeart.yy",},
+    {"name":"sHeartEmpty","order":47,"path":"sprites/sHeartEmpty/sHeartEmpty.yy",},
     {"name":"sLazer","order":12,"path":"sprites/sLazer/sLazer.yy",},
     {"name":"sMountain_1","order":2,"path":"sprites/sMountain_1/sMountain_1.yy",},
     {"name":"sMountain_2","order":3,"path":"sprites/sMountain_2/sMountain_2.yy",},

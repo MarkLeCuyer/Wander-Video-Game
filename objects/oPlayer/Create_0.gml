@@ -5,5 +5,8 @@ walkspeed = 2;
 jumpspeed = 4.25;
 jumps = 0;
 jumpsmax = 2; 
+health = 5;
+health_max = 5;
+invicible = false;
 
 my_tilemap = layer_tilemap_get_id("Ground");
