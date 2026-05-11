@@ -1,7 +1,7 @@
 
-// 
+// attatch arm to player animation
 if oPlayer.sprite_index == sPlayer and oPlayer.image_index = 1 {
-	y = oPlayer.y-1;
+	y = oPlayer.y+1;
 }
 
 // Blaster follows the mouse
