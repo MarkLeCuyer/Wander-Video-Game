@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"stUrret",
+  "%Name":"oTurret_Block",
   "eventList":[],
   "managed":true,
-  "name":"stUrret",
+  "name":"oTurret_Block",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sTurret",
-    "path":"sprites/sTurret/sTurret.yy",
+    "name":"sTurret_Block",
+    "path":"sprites/sTurret_Block/sTurret_Block.yy",
   },
   "spriteMaskId":null,
   "visible":true,

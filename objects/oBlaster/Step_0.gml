@@ -24,3 +24,5 @@ if (mouse_check_button(mb_left)) && (firingdelay < 0)
 			image_angle = direction;
 			}
 }
+
+oBlaster.image_blend = oPlayer.image_blend;
