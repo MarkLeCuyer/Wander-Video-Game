@@ -44,11 +44,11 @@ else
 	image_speed = 1;
 	if (hsp == 0) 
 	{
-		sprite_index = sEnemygR; 
+		sprite_index = sEnemygGround; 
 	}
 	else 
 	{
-		sprite_index = sEnemygR; 
+		sprite_index = sEnemygGround; 
 	}
 }
 
