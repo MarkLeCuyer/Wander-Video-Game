@@ -1,6 +1,6 @@
 if (hp <= 0) 
 {
-	with (instance_create_layer(x,y,layer,oDead)) 
+	with (instance_create_layer(x,y,layer,oEnemyGroundDead)) 
 	{
 		direction = other.hitfrom; 
 		hsp = lengthdir_x(3,direction);
@@ -11,4 +11,11 @@ if (hp <= 0)
 	
 	
 	instance_destroy();
+}
+
+var in_radius = collision_circle(x, y, enemy_radius, oPlayer, false, false)
+
+if in_radius 
+{
+	
 }

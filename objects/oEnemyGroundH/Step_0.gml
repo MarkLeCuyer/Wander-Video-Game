@@ -1,13 +1,4 @@
 vsp = vsp + grv;
-
-var _scared_of_heights = !place_meeting(x+hsp + (16 * sign(hsp)),y+1,my_tilemap)
-
-//Don't walk off edges 
-if (grounded) && (_scared_of_heights)
-{
-	hsp = -hsp;
-}
-
 // Horizontal collision
 if (place_meeting(x+hsp,y,my_tilemap))
 {
@@ -60,5 +51,4 @@ if (place_meeting(x,y,oPlayer) and oPlayer.invicible = false)
 	oPlayer.invicible = true;
 	oPlayer.alarm[0] = 60;
 	oPlayer.image_blend = c_red;oPlayer.image_blend = c_red;
-	sprite_index = sEnemygGroundH
 }
