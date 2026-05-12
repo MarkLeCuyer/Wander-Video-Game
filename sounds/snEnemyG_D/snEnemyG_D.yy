@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"snDeath",
+  "%Name":"snEnemyG_D",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,9 +10,9 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":1.011701,
+  "duration":0.9840136,
   "exportDir":"",
-  "name":"snDeath",
+  "name":"snEnemyG_D",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snDeath.wav",
+  "soundFile":"snEnemyG_D.mp3",
   "volume":1.0,
 }

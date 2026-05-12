@@ -16,10 +16,10 @@ if (done == 0)
 	// Vertical collision
 	if (place_meeting(x,y+vsp,my_tilemap))
 	{
+		
 		if (vsp > 0) 
 		{
 			done = 1;
-			image_index = 1; 
 		}
 		while (!place_meeting(x,y+sign(vsp),my_tilemap))
 		{
