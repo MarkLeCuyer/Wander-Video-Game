@@ -91,6 +91,7 @@
     {"id":{"name":"sEnemygA","path":"sprites/sEnemygA/sEnemygA.yy",},},
     {"id":{"name":"sEnemygD","path":"sprites/sEnemygD/sEnemygD.yy",},},
     {"id":{"name":"sEnemygGround","path":"sprites/sEnemygGround/sEnemygGround.yy",},},
+    {"id":{"name":"sEnemygGroundH","path":"sprites/sEnemygGroundH/sEnemygGroundH.yy",},},
     {"id":{"name":"sFourgroundGrass_1","path":"sprites/sFourgroundGrass_1/sFourgroundGrass_1.yy",},},
     {"id":{"name":"sFourgroundGrass_2","path":"sprites/sFourgroundGrass_2/sFourgroundGrass_2.yy",},},
     {"id":{"name":"sGround1","path":"sprites/sGround1/sGround1.yy",},},

@@ -36,12 +36,12 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"sEnemygGround",
-    "path":"sprites/sEnemygGround/sEnemygGround.yy",
+    "name":"sEnemygGroundH",
+    "path":"sprites/sEnemygGroundH/sEnemygGroundH.yy",
   },
   "spriteMaskId":{
-    "name":"sEnemygGround",
-    "path":"sprites/sEnemygGround/sEnemygGround.yy",
+    "name":"sEnemygGroundH",
+    "path":"sprites/sEnemygGroundH/sEnemygGroundH.yy",
   },
   "visible":true,
 }

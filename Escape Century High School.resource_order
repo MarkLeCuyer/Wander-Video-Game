@@ -62,6 +62,7 @@
     {"name":"sEnemyg","order":1,"path":"sprites/sEnemyg/sEnemyg.yy",},
     {"name":"sEnemygA","order":2,"path":"sprites/sEnemygA/sEnemygA.yy",},
     {"name":"sEnemygD","order":3,"path":"sprites/sEnemygD/sEnemygD.yy",},
+    {"name":"sEnemygGround","order":4,"path":"sprites/sEnemygGround/sEnemygGround.yy",},
     {"name":"sFourgroundGrass_1","order":12,"path":"sprites/sFourgroundGrass_1/sFourgroundGrass_1.yy",},
     {"name":"sFourgroundGrass_2","order":11,"path":"sprites/sFourgroundGrass_2/sFourgroundGrass_2.yy",},
     {"name":"sGround1","order":23,"path":"sprites/sGround1/sGround1.yy",},

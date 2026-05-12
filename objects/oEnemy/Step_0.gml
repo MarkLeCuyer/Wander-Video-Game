@@ -44,11 +44,11 @@ else
 	image_speed = 1;
 	if (hsp == 0) 
 	{
-		sprite_index = sEnemygGround; 
+		sprite_index = sEnemygGroundH; 
 	}
 	else 
 	{
-		sprite_index = sEnemygGround; 
+		sprite_index = sEnemygGroundH; 
 	}
 }
 
@@ -60,22 +60,5 @@ if (place_meeting(x,y,oPlayer) and oPlayer.invicible = false)
 	oPlayer.invicible = true;
 	oPlayer.alarm[0] = 60;
 	oPlayer.image_blend = c_red;oPlayer.image_blend = c_red;
-	
+	sprite_index = sEnemygGroundH
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
