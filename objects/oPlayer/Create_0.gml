@@ -8,5 +8,7 @@ jumpsmax = 2;
 health = 5;
 health_max = 5;
 invicible = false;
+heart_frame = 0;
+frame_speed = 0;
 
 my_tilemap = layer_tilemap_get_id("Ground");

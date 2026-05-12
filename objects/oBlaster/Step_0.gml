@@ -14,7 +14,7 @@ if (mouse_check_button(mb_left)) && (firingdelay < 0)
 {
 	recoil = 4;
 	firingdelay = 20;
-	audio_play_sound(snShooting,5,false);
+	audio_play_sound(snPlayer_shooting,5,false);
 	with (instance_create_layer(x,y,"Lazer",oLazer))
 		{
 			x = oBlaster.x; 

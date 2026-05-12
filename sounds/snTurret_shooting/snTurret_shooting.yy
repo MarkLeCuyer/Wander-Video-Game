@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"snShooting",
+  "%Name":"snTurret_shooting",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,9 +10,9 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":0.9249887,
+  "duration":0.2592517,
   "exportDir":"",
-  "name":"snShooting",
+  "name":"snTurret_shooting",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snShooting.wav",
+  "soundFile":"snTurret_shooting.wav",
   "volume":1.0,
 }

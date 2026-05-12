@@ -11,7 +11,7 @@ else {
 if (in_radius) and (firingdelay == 0)
 {
 	firingdelay = 60;
-	audio_play_sound(snShooting,5,false);
+	audio_play_sound(snTurret_shooting,5,false);
 	with (instance_create_layer(x,y,"Lazer_Enemy",oLazer_Enemy))
 		{
 		

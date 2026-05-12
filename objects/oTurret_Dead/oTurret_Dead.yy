@@ -1,14 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"oLazer_Enemy",
+  "%Name":"oTurret_Dead",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":77,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oLazer_Enemy",
+  "name":"oTurret_Dead",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -33,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sLazer_Enemy",
-    "path":"sprites/sLazer_Enemy/sLazer_Enemy.yy",
+    "name":"sTurret_Dead",
+    "path":"sprites/sTurret_Dead/sTurret_Dead.yy",
   },
   "spriteMaskId":null,
   "visible":true,
