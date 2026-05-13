@@ -1,7 +1,8 @@
 if (hp <= 0) 
 {
-	with (instance_create_layer(x,y,layer,oTurret_Dead)) 
+	with (instance_create_layer(x,y,"Turret",oTurret_Dead)) 
 	{
+		depth = 1;
 		direction = other.hitfrom; 
 		hsp = lengthdir_x(3,direction);
 		vsp = lengthdir_y(3,direction)-2;  

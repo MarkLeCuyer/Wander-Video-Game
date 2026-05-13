@@ -15,8 +15,8 @@ if (in_radius) and (firingdelay == 0)
 	with (instance_create_layer(x,y,"Lazer_Enemy",oLazer_Enemy))
 		{
 		
-			x = oTurret.x; 
-			y = oTurret.y;
+			x = other.x; 
+			y = other.y;
 			speed = 10;
 			direction = other.image_angle;
 			image_angle = direction;

@@ -1,10 +1,10 @@
 {
   "$GMSprite":"v2",
   "%Name":"sEnemygGroundH",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":31,
   "bbox_left":5,
-  "bbox_right":30,
+  "bbox_right":28,
   "bbox_top":2,
   "collisionKind":1,
   "collisionTolerance":0,

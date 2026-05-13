@@ -13,16 +13,3 @@ if (hp <= 0)
 	instance_destroy();
 }
 
-if (place_meeting(x,y,oPlayer) and oPlayer.invicible = false)
-{
-	with (instance_create_layer(x,y,layer,oEnemyGroundH)) 
-	{
-		sprite_index = sEnemygGroundH;
-		health -= 1;
-		oPlayer.invicible = true;
-		oPlayer.alarm[0] = 60;
-		oPlayer.image_blend = c_red;oPlayer.image_blend = c_red;
-	}
-	instance_destroy();
-}
-

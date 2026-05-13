@@ -34,6 +34,17 @@ y = y + vsp;
 // Animation
 PlayerAnimation();
 
+if heart_delay = 0 {
+	heart_frame += 1
+	if heart_frame > 1 {
+		heart_frame = 0
+	}
+	heart_delay = 20
+}
+else {
+	heart_delay -= 1;
+}
+
 
 
 

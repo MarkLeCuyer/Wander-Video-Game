@@ -7,5 +7,6 @@ hsp = walksp;
 hp = 8; 
 flash = 0; 
 hitfrom = 0;
+chasing = false;
 
 my_tilemap = layer_tilemap_get_id("Ground");
