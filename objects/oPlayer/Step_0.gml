@@ -39,7 +39,7 @@ if heart_delay = 0 {
 	if heart_frame > 1 {
 		heart_frame = 0
 	}
-	heart_delay = 20
+	heart_delay = 40
 }
 else {
 	heart_delay -= 1;
