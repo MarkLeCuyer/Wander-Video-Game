@@ -1,16 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"oTurret_Dead",
+  "%Name":"oEnemy_Ground_Dead",
   "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oTurret_Dead",
+  "name":"oEnemy_Ground_Dead",
   "overriddenProperties":[],
   "parent":{
-    "name":"oTurret",
-    "path":"folders/Objects/oTurret.yy",
+    "name":"oEnemyGround",
+    "path":"folders/Objects/oEnemyGround.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sTurret_Dead",
-    "path":"sprites/sTurret_Dead/sTurret_Dead.yy",
+    "name":"sEnemygD",
+    "path":"sprites/sEnemygD/sEnemygD.yy",
   },
   "spriteMaskId":null,
   "visible":true,

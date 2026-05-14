@@ -8,8 +8,8 @@
   "name":"oTurret_Block",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"oTurret",
+    "path":"folders/Objects/oTurret.yy",
   },
   "parentObjectId":null,
   "persistent":false,

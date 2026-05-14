@@ -1,17 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"oEnemyGroundDead",
+  "%Name":"oEnemy_Fly_Dead",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oEnemyGroundDead",
+  "name":"oEnemy_Fly_Dead",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"oEnemyFly",
+    "path":"folders/Objects/oEnemyFly.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -32,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sEnemygD",
-    "path":"sprites/sEnemygD/sEnemygD.yy",
+    "name":"sEnemy_Fly_Dead",
+    "path":"sprites/sEnemy_Fly_Dead/sEnemy_Fly_Dead.yy",
   },
   "spriteMaskId":null,
   "visible":true,

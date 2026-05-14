@@ -17,7 +17,7 @@ if not chasing {
 	}
 
 	// Horizontal collision
-	if (place_meeting(x+hsp,y,my_tilemap))
+	 if (place_meeting(x+hsp,y,my_tilemap))
 	{
 		while (!place_meeting(x+sign(hsp),y,my_tilemap))
 		{
@@ -27,6 +27,7 @@ if not chasing {
 	}
 	x = x + hsp; 
 }
+
 else {
 	// When chasing the player
 	if not collision_circle(x, y, 16, oPlayer, false, false) {
@@ -64,6 +65,7 @@ else {
 			}
 	
 	}
+	
 }
 
 // Vertical collision
